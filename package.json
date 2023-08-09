@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "A test for direct messages in instagram by API",
   "main": "index.js",
+  "type": "module",
   "scripts": {
     "test": "test"
   },
