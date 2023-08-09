@@ -1,0 +1,19 @@
+{
+  "name": "insta-test",
+  "version": "1.0.0",
+  "description": "A test for direct messages in instagram by API",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/franciscoeymardneto/insta-test.git"
+  },
+  "author": "franciscoeymardneto",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/franciscoeymardneto/insta-test/issues"
+  },
+  "homepage": "https://github.com/franciscoeymardneto/insta-test#readme"
+}
