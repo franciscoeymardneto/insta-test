@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/franciscoeymardneto/insta-test/issues"
   },
-  "homepage": "https://github.com/franciscoeymardneto/insta-test#readme"
+  "homepage": "https://github.com/franciscoeymardneto/insta-test#readme",
+  "dependencies": {
+    "@androz2091/insta.js": "^1.6.1"
+  }
 }
